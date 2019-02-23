@@ -1,4 +1,6 @@
 # vuex-reactivity
+simply checking to see if my method of updating state is reactive  
+Based on problem I was having that can be found at [https://stackoverflow.com/questions/54821580/vuex-update-array-as-value-of-object]()
 
 ## Project setup
 ```
